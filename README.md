@@ -2,11 +2,11 @@
 
 🔹 AI Engineer | Software Engineer | Machine Learning Enthusiast
 
-💡 Specializing in:  
+💡 Specializing in: 
+✔️ Software Engineer
 ✔️ Deep Learning  
 ✔️ Natural Language Processing (LLMs)  
 ✔️ Generative AI
-✔️ Software Engineer
 
 ---
 I am a passionate tech with a strong interest in AI, data science, and software engineering. My experience spans both academic and industrial projects, including Web Development including a POS system, an online application registering platform, Optical Character Recognition on Khmer Characters (OCR), and Generative AI (Large Language Models). I am committed to leveraging technology to solve real-world problems and continuously expand my knowledge in the field. 👋
