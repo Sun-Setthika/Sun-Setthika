@@ -3,7 +3,6 @@
 🔹 AI Engineer | Software Engineer | Machine Learning Enthusiast
 
 💡 Specializing in: 
-✔️ Software Engineer
 ✔️ Deep Learning  
 ✔️ Natural Language Processing (LLMs)  
 ✔️ Generative AI
