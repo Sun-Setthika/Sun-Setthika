@@ -1,8 +1,8 @@
 ## Hi there, I'm Setthika SUN 👋
 
-🔹 AI Engineer | Software Engineer | Machine Learning Enthusiast
+🔹 **AI Engineer | Software Engineer | Machine Learning Enthusiast**
 
-💡 Specializing in: 
+💡 **Specializing in** : 
 ✔️ Deep Learning  
 ✔️ Natural Language Processing (LLMs)  
 ✔️ Generative AI
