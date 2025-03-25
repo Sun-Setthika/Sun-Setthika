@@ -4,9 +4,8 @@
 
 💡 **Specializing in** : 
 
-✔️ Deep Learning  
-✔️ Natural Language Processing (LLMs)  
 ✔️ Software Engineer
+✔️ Natural Language Processing (LLMs)  
 ✔️ Generative AI
 
 ---
